@@ -1,1 +1,33 @@
-/*  your css code here. If applicable */
+.container{
+	background-color:green;
+	height:70px;
+	width:70px;
+	border-radius:35px
+}
+.container1{
+	background-color:yellow;
+	height:70px;
+	width:70px;
+	border-radius:35px
+}
+.container2{
+	background-color:red;
+	height:70px;
+	width:70px;
+	border-radius:35px
+}
+body{
+	border:1px solid black;
+	border-radius:30px;
+	background-color:gray;
+	height:100px;
+	width:300px;
+	display:flex;
+	gap:10px;
+	justify-content:center;
+	padding:30px 10px 10px 10px ;
+	
+}
+*{
+	background-color:white;
+}
