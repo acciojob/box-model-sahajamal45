@@ -1,22 +1,22 @@
-.container{
+.green{
 	background-color:green;
 	height:70px;
 	width:70px;
 	border-radius:35px
 }
-.container1{
+.yellow{
 	background-color:yellow;
 	height:70px;
 	width:70px;
 	border-radius:35px
 }
-.container2{
+.red{
 	background-color:red;
 	height:70px;
 	width:70px;
 	border-radius:35px
 }
-body{
+.container{
 	border:1px solid black;
 	border-radius:30px;
 	background-color:gray;
@@ -30,4 +30,5 @@ body{
 }
 *{
 	background-color:white;
+	
 }
